@@ -1,0 +1,12 @@
+alphabets="abcdefghijklmnopqrstuvwxyz"
+print(alphabets)
+print(alphabets[0])
+print(alphabets[1])
+print(alphabets[10])
+print(alphabets[-1])
+print(alphabets[-2])
+print(alphabets[-26])
+print(alphabets[0:10])
+print(alphabets[-1:-5])
+print(alphabets[0:20:2])
+print(alphabets[0:20:3])
